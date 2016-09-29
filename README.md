@@ -1,4 +1,4 @@
 # hello-world
 First Github Repository
 
-KDK here.  Thrying out the git editor
+KDK here.  Trying out the git editor
